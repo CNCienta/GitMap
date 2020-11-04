@@ -30,7 +30,7 @@
                 "type": "Point",
                 "coordinates": [
                     "46.774989",
-                    "-71.397317"
+                    "71.397317"
                 ]
             },
             "properties": {
@@ -47,16 +47,16 @@
                 "type": "Point",
                 "coordinates": [
                     "19.566905",
-                    "-101.089059"
+                    "101.089059"
                 ]
             },
-                                                    {
+            {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "8.060788",
-                    "-80.907996"
+                    "80.907996"
                 ]
             },
             "properties": {
@@ -67,13 +67,13 @@
                 "contact": "<a href=https://github.com/robbinhan/>robbinhan</a>"
             }
         },
-                                                            {
+        {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "4.649237",
-                    "-73.976594"
+                    "73.976594"
                 ]
             },
             "properties": {
