@@ -24,6 +24,66 @@
                 "contact": "<a href=https://github.com/robbinhan/>robbinhan</a>"
             }
         },
+                {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "46.774989",
+                    "-71.397317"
+                ]
+            },
+            "properties": {
+                "title": "PHP Engineer",
+                "description": "PHP Software Engineer",
+                "marker-symbol": "hairdresser",
+                "marker-size": "large",
+                "contact": "<a href=https://github.com/robbinhan/>robbinhan</a>"
+            }
+        },
+                        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "19.566905",
+                    "-101.089059"
+                ]
+            },
+                                                    {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "8.060788",
+                    "-80.907996"
+                ]
+            },
+            "properties": {
+                "title": "PHP Engineer",
+                "description": "PHP Software Engineer",
+                "marker-symbol": "hairdresser",
+                "marker-size": "large",
+                "contact": "<a href=https://github.com/robbinhan/>robbinhan</a>"
+            }
+        },
+                                                            {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.649237",
+                    "-73.976594"
+                ]
+            },
+            "properties": {
+                "title": "PHP Engineer",
+                "description": "PHP Software Engineer",
+                "marker-symbol": "hairdresser",
+                "marker-size": "large",
+                "contact": "<a href=https://github.com/robbinhan/>robbinhan</a>"
+            }
+        },
         {},
         {
             "type": "Feature",
