@@ -21,6 +21,8 @@
                 "description": "PHP Software Engineer",
                 "marker-symbol": "hairdresser",
                 "marker-size": "large",
+28
+        {
                 "contact": "<a href=https://github.com/robbinhan/>robbinhan</a>"
             }
         },
@@ -48,8 +50,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -74.0065,
-                    40.714
+                    "-74.0065",
+                    "40.714"
                 ]
             },
             "properties": {
